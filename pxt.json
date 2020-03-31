@@ -1,0 +1,17 @@
+{
+    "name": "EasyBit",
+    "version": "0.0.4",
+    "description": "YwRobot EasyBit driver for the BBC micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "yweasybit.ts",
+        "README.md"
+    ],
+    "testFiles": [
+      "tests.ts"
+    ],
+    "public": true
+}
